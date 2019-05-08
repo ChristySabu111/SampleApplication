@@ -1,2 +1,0 @@
-# SampleApplication
-MY FIRST REPOSITORY
